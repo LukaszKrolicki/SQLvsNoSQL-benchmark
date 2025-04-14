@@ -1,0 +1,6 @@
+PyMySQL~=1.1.1
+pandas~=2.2.3
+CouchDB~=1.2
+matplotlib~=3.10.1
+numpy~=2.2.3
+mysql~=0.0.3
